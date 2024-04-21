@@ -1,3 +1,5 @@
+# Be sure You aren't enrolling in the course and you must follow Stanford honor code policy!!!
+
 ## C++ fundamentals
 ### This is an exercise of CS106B 2024 Spring
 
